@@ -80,7 +80,21 @@ Here are some example plots generated during analysis:
 - `Pclass` and `Fare` also showed **moderate influence**.  
  
  
+## 📌 Conclusion  
 
+This project demonstrates the application of **Exploratory Data Analysis (EDA)** and **data visualization** on the Titanic dataset.  
+It includes **data cleaning, transformation, visualization, and insights extraction**, providing a strong foundation for understanding how data can reveal patterns and key factors influencing survival.  
+
+---
+
+## 🚀 How to Use  
+
+1. **Clone the Repository**: Clone this repository to your local machine.  
+   ```sh
+   git clone https://github.com/rahmasaber123/Titanic_EDA.git
+
+
+## Author - RAHMA SABER ABBAS 
 ---
 
 
