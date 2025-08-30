@@ -48,27 +48,40 @@ Here are some example plots generated during analysis:
 
 
 ---
+  
+## 📊 Key Insights from the Titanic Dataset  
 
-## 🔍 Insights & Findings  
-- Women were much more likely to survive (`~74%`) compared to men (`~19%`).  
-- First-class passengers had significantly higher survival rates than third-class.  
+### 🔹 Survival Rate Overview  
+- Around **38%** of passengers survived.  
+- Survival was strongly influenced by **gender, class, and age**.  
+
+### 🔹 Gender & Survival  
+- **Females had a significantly higher survival rate** than males.  
+- The **"Women and children first"** policy is clearly reflected in the data.  
+
+### 🔹 Passenger Class (Pclass)  
+- **First-class passengers** had the highest survival rate.  
+- **Third-class passengers** had the lowest survival rate.  
+- Indicates the impact of **social & economic factors** on survival chances.  
+
+### 🔹 Age Factor  
+- **Children (under 10 years)** had a higher chance of survival.  
+- Survival probability **dropped as age increased**.  
+
+### 🔹 Family Influence (SibSp & Parch)  
+- Passengers traveling with **small families (1–2 members)** had better survival chances.  
+- Those with **large families** faced lower chances, possibly due to evacuation difficulties.  
+
+### 🔹 Embarked Port  
+- Passengers embarking from **Cherbourg (C)** had a better survival rate than those from **Southampton (S)**.  
+
+### 🔹 Correlation Heatmap Results  
+- `Sex` (encoded as **0=female, 1=male**) had the **strongest correlation with survival**.  
+- `Pclass` and `Fare` also showed **moderate influence**.  
+ 
  
 
 ---
 
-## 📂 Project Structure  
-Titanic-EDA/
-│
-├── data/ # Dataset files
-│ ├── titanic.csv # Training dataset
-│ 
-│
-├── images/ # Visualizations & plots
-│ ├── survival_gender.png
-│ ├── survival_class.png
-│ └── age_distribution.png
-│
-├── TitanicEDA.ipynb # Main Jupyter Notebook (EDA & visualizations)
-├── requirements.txt # Required Python packages
-├── README.md # Project documentation 
+
 
