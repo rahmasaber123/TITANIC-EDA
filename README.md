@@ -57,3 +57,18 @@ Here are some example plots generated during analysis:
 ---
 
 ## 📂 Project Structure  
+Titanic-EDA/
+│
+├── data/ # Dataset files
+│ ├── titanic.csv # Training dataset
+│ 
+│
+├── images/ # Visualizations & plots
+│ ├── survival_gender.png
+│ ├── survival_class.png
+│ └── age_distribution.png
+│
+├── TitanicEDA.ipynb # Main Jupyter Notebook (EDA & visualizations)
+├── requirements.txt # Required Python packages
+├── README.md # Project documentation 
+
