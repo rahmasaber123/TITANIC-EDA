@@ -40,7 +40,7 @@ Here are some example plots generated during analysis:
 ![Survived Men](https://github.com/rahmasaber123/TITANIC-EDA/blob/main/survived_men.png?raw=true)
 
 ### 🔹 Survival by Passenger Class  
-![Survival by Class](images/survival_class.png)
+![Survival by Class](https://github.com/rahmasaber123/TITANIC-EDA/blob/main/survival_based_on_class.png?raw=true)
 
 ### 🔹 Age Distribution of Survivors vs Non-Survivors  
 ![Age Distribution](images/age_distribution.png)
