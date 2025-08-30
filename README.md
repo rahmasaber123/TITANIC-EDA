@@ -37,7 +37,7 @@ In this project, I performed a **comprehensive Exploratory Data Analysis (EDA)**
 Here are some example plots generated during analysis:
 
 ### 🔹 Survival by Gender  
-![Survival by Gender](images/survival_gender.png)
+![Survived Men](https://github.com/rahmasaber123/TITANIC-EDA/blob/main/survived_men.png?raw=true)
 
 ### 🔹 Survival by Passenger Class  
 ![Survival by Class](images/survival_class.png)
